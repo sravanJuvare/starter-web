@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Sravan Juvare   sravan.yadav@juvare.com    sravanJuvare
 
 # THANKS
 
