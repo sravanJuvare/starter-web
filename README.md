@@ -11,7 +11,7 @@ To understand the basics of git
 We will not touch the deployment
 
 ## How to contribute
-By raising a PR
+By forking this repo and raise a PR
 
 ### Copyright
 2024 Git.Training - Sravan
